@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm CrimeSQL</h1>
 <h3 align="center">Multidisciplinary Developer from Ukraine · Frontend · Backend · Everything in between</h3>
 
@@ -8,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [github.com/Bezsmertny](https://github.com/Bezsmertny?tab=repositories)
 - 💬 Ask me about **C++, reverse engineering, Windows internals, game hacking, DLL injection, anti-cheat bypass theory**
 - 📫 How to reach me: [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/vohyo) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1464983000520458314)
-- 📄 Know about my experiences: [![guns.lol](https://img.shields.io/badge/-guns.lol-000000?style=flat&logo=firefox&logoColor=white)](https://guns.lol/fsociety00)
+- 📄 Know about my experiences: [![guns.lol](https://img.shields.io/badge/-guns.lol-000000?style=flat&logo=firefox&logoColor=white)](https://guns.lol/fucksociety00)
 - ⚡ Fun fact: **I fix bugs by adding more bugs**
 
 <h3 align="left">Languages and Tools:</h3>
